@@ -9,5 +9,6 @@ namespace LoginBackend20233
         {
             
         }
+        //public DbSet<Pelicula> Peliculas { get; set; }
     }
 }
